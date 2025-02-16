@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Rust related to data races caused by multiple mutable references to the same variable. The `bug.rs` file contains the erroneous code, while `bugSolution.rs` provides a corrected version.
